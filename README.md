@@ -4,6 +4,11 @@ An end-to-end analysis of a fictional Indian home-goods retailer, "Bharat Home,"
 
 **Status:** Complete. Phases 1 to 5 are finished.
 
+![Overview dashboard](docs/01_overview.png)
+![Revenue and customers](docs/02_revenue_customers.png)
+![RFM and churn](docs/03_rfm_churn.png)
+![Delivery and reviews](docs/04_delivery_reviews.png)
+
 ---
 
 ## Business Problem
