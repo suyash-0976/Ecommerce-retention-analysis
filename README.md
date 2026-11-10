@@ -3,9 +3,9 @@
 An end-to-end analysis of a fictional Indian home-goods retailer, "Bharat Home," covering customer retention, churn, and delivery performance. Built with **SQL Server**, **Python** (pandas, Jupyter), and **Power BI**.
 
 **Status:** Complete. Phases 1 to 5 are finished.
-![Overview, all years](docs/01_overview.png)
-![Overview, 2023](docs/01_overview_2023.png)
-![Overview, 2024](docs/01_overview_2024.png)
+![Overview, all years](docs/0.png)
+![Overview, 2023](docs/1.png)
+![Overview, 2024](docs/2.png)
 
 ---
 
